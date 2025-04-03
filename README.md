@@ -1,2 +1,3 @@
-# calculator-typescript-tailwind
-this is a calculator web app made with typescript by using the tailwindcss framework 
+# Go-Weather-API
+
+Backend: Weather proxy API with Go - WIP
